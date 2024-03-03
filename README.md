@@ -11,4 +11,4 @@ This repository contains the source code for a simple browser-based game called 
 
 ## Installation 
 
-This game is able to run inside the browser, you won't need to install anything to run it. To deploy, simply follow the URL:
+This game is able to run inside the browser, you won't need to install anything to run it. To deploy, simply follow the URL: https://ivanna0803.github.io/the-monster-slayer-game/
